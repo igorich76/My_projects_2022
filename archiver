@@ -1,3 +1,6 @@
+//  Тема разработки:
+// «Практическое применение платформы .Net для программирования Windows-приложений на примере программы архивирования файлов и папок в среде PascalABC.Net.»
+
 {$apptype windows}
 {$reference 'System.IO.Compression.FileSystem.dll'}
 uses System, System.IO, System.IO.Compression;
